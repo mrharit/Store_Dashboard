@@ -37,7 +37,6 @@ This Excel Dashboard provides a comprehensive visual representation of key metri
 - **Formula Errors**: Check for missing data or incorrect formula references.
 - **File Not Opening**: Ensure Excel is updated and the file format is compatible.
 
-## Contact
-For any issues or enhancements, please reach out to the project team or administrator.
+
 
 
